@@ -1,6 +1,6 @@
 # Random forest feature selection for index sort data for Lawrence et al. 2021
 
-This repo contains index sort data as well as code for feature selection for the
+This repo contains index sort data as well as [code](http://htmlpreview.github.io/?https://github.com/Core-Bioinformatics/Lawrence-et-al-2021-index-sort-feature-selection/blob/main/index-sort-feature-selection.html) for feature selection for the
 manuscript
 
 Mapping the biogenesis of forward programmed megakaryocytes from induced
